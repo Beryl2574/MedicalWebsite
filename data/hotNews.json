@@ -1,5 +1,185 @@
 [
   {
+    "img": "images/pic_55.jpg",
+    "headimg": "",
+    "h5": "文／張鴻猷（心臟血管內科主治醫師）",
+    "title": "振興醫院榮獲亞洲首批通過<br>美國心臟學會卓越金質獎認證醫院",
+    "link": "振興醫院榮獲亞洲首批通過<br>美國心臟學會卓越金質獎認證醫院",
+    "footerImages": [],
+    "id": 55,
+    "content": "55.html"
+  },
+  {
+    "img": "images/pic_54.jpg",
+    "headimg": "",
+    "h5": "文／編輯部",
+    "title": "緬懷創辦人——紀念蔣宋美齡女士127歲華誕",
+    "link": "緬懷創辦人——紀念蔣宋美齡女士127歲華誕",
+    "footerImages": ["images/pic_54_1.jpg"],
+    "id": 54,
+    "content": "54.html"
+  },
+  {
+    "img": "images/pic_53.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟血管內科曹殿萍主任",
+    "title": "本院心臟醫學中心以<br>「近端栓塞保護裝置Mo.Ma系統裝置用於頸動脈支架術的安全性和有效性」<br>榮獲「SNQ國家品質標章」",
+    "link": "本院心臟醫學中心以<br>「近端栓塞保護裝置Mo.Ma系統裝置用於頸動脈支架術的安全性和有效性」<br>榮獲「SNQ國家品質標章」",
+    "footerImages": ["images/pic_53_1.jpg"],
+    "id": 53,
+    "content": "53.html"
+  },
+  {
+    "img": "images/pic_52.jpg",
+    "headimg": "",
+    "h5": "文／張秉宜（護理部副主任）、陳慧玲（護理部主任）",
+    "title": "有朋自遠方來<br>記2024年西雅圖西北大學跨文化護理交流",
+    "link": "有朋自遠方來<br>記2024年西雅圖西北大學跨文化護理交流",
+    "footerImages": ["images/pic_52_1.jpg","images/pic_52_2.jpg"],
+    "id": 52,
+    "content": "52.html"
+  },
+  {
+    "img": "images/pic_51.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／婦幼中心、門診護理站",
+    "title": "本院榮獲112年度臺北市優良哺（集）乳室認證特優獎<br>並獲選績優評選自願設置類開放使用組第十名",
+    "link": "本院榮獲112年度臺北市優良哺（集）乳室認證特優獎<br>並獲選績優評選自願設置類開放使用組第十名",
+    "footerImages": [],
+    "id": 51,
+    "content": "51.html"
+  },
+  {
+    "img": "images/pic_50.jpg",
+    "headimg": "",
+    "h5": "文／呂建和（客服中心代理主任）、李永在（心臟血管外科主治醫師）",
+    "title": "本院率先達成1000例經導管瓣膜置換術<br>並獲「經導管二尖瓣瓣中瓣手術亞太教學卓越中心」認證<br>「二尖瓣二次置換術」取代已退化之外科生物瓣膜，重啟病患美好生活",
+    "link": "本院率先達成1000例經導管瓣膜置換術<br>並獲「經導管二尖瓣瓣中瓣手術亞太教學卓越中心」認證<br>「二尖瓣二次置換術」取代已退化之外科生物瓣膜，重啟病患美好生活",
+    "footerImages": ["images/pic_50_2.jpg"],
+    "id": 50,
+    "content": "50.html"
+  },
+  {
+    "img": "images/pic_49.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、照片提供／總務室",
+    "title": "本院舉辦112年度年終尾牙餐會席開近220桌<br>歌舞節目精彩熱鬧，獎品獎金大方抽",
+    "link": "本院舉辦112年度年終尾牙餐會席開近220桌<br>歌舞節目精彩熱鬧，獎品獎金大方抽",
+    "footerImages": ["images/pic_49_1.jpg","images/pic_49_2.jpg","images/pic_49_3.jpg"],
+    "id": 49,
+    "content": "49.html"
+  },
+  {
+    "img": "images/pic_48.jpg",
+    "headimg": "",
+    "h5": "文／林煥湫(心臟血管內科主治醫師)、林靜(心臟血管內科次專完訓醫師)",
+    "title": "本院心臟血管內科林煥湫醫師及林靜醫師<br>榮獲2024年台灣介入性心臟血管醫學會年會<br>結構性心臟病及冠狀動脈心臟病例競賽第一名",
+    "link": "本院心臟血管內科林煥湫醫師及林靜醫師<br>榮獲2024年台灣介入性心臟血管醫學會年會<br>結構性心臟病及冠狀動脈心臟病例競賽第一名",
+    "footerImages": [],
+    "id": 48,
+    "content": "48.html"
+  },
+  {
+    "img": "images/pic_47.jpg",
+    "headimg": "",
+    "h5": "文／吳孟庭（神經外科主治醫師）",
+    "title": "本院神經外科舉辦<br>2023年台灣脊椎微創內視鏡醫學研討會",
+    "link": "本院神經外科舉辦<br>2023年台灣脊椎微創內視鏡醫學研討會",
+    "footerImages": [],
+    "id": 47,
+    "content": "47.html"
+  },
+  {
+    "img": "images/pic_46.jpg",
+    "headimg": "",
+    "h5": "文／黃堅波（心臟血管內科次專受訓醫師）、曹殿萍（心臟血管內科主任）",
+    "title": "左心室輔助幫浦(Impella)輔助<br>複雜性心導管介入及血管內震波碎石治療<br>（Impella-assisted CHIP PCI with Shockwave IVL）",
+    "link": "左心室輔助幫浦(Impella)輔助<br>複雜性心導管介入及血管內震波碎石治療<br>（Impella-assisted CHIP PCI with Shockwave IVL）",
+    "footerImages": ["images/pic_46_1.jpg"],
+    "id": 46,
+    "content": "46.html"
+  },
+  {
+    "img": "images/pic_45.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title": "本院舉辦CHENG HSIN Live 2023 國際會議<br>聚焦複雜高危冠狀動脈介入治療及<br>三尖瓣治療新發展",
+    "link": "本院舉辦CHENG HSIN Live 2023 國際會議<br>聚焦複雜高危冠狀動脈介入治療及<br>三尖瓣治療新發展",
+    "footerImages": ["images/pic_45_1.jpg"],
+    "id": 45,
+    "content": "45.html"
+  },
+  {
+    "img": "images/pic_44.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title": "本院魏崢院長榮獲第八屆國際醫療典範獎",
+    "link": "本院魏崢院長榮獲第八屆國際醫療典範獎",
+    "footerImages": ["images/pic_44_1.jpg"],
+    "id": 44,
+    "content": "44.html"
+  },
+  {
+    "img": "images/pic_43.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／急重症醫療中心、心臟血管內科",
+    "title": "本院急重症醫療中心李鴻福主任及<br>心臟血管內科林煥湫醫師分別榮獲2023年<br>台北市醫師公會杏林獎及青年杏林獎",
+    "link": "本院急重症醫療中心李鴻福主任及<br>心臟血管內科林煥湫醫師分別榮獲2023年<br>台北市醫師公會杏林獎及青年杏林獎",
+    "footerImages": ["images/pic_43_1.jpg"],
+    "id": 43,
+    "content": "43.html"
+  },
+  {
+    "img": "images/pic_42.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／陳育暄（胸腔內科主任級醫師）",
+    "title": "臺北市立聯合醫院仁愛院區主管團隊來院<br>參訪高壓氧治療中心",
+    "link": "臺北市立聯合醫院仁愛院區主管團隊來院<br>參訪高壓氧治療中心",
+    "footerImages": ["images/pic_42_1.jpg"],
+    "id": 42,
+    "content": "42.html"
+  },
+  {
+    "img": "images/pic_41.jpg",
+    "headimg": "",
+    "h5": "文／殷偉賢（醫療副院長）",
+    "title": "本院心臟團隊應邀於「歐洲心臟瓣膜學大會成都分會」<br>分享使用「再度經導管主動脈瓣膜置換術」治療毀損導管瓣膜的成功經驗",
+    "link": "本院心臟團隊應邀於「歐洲心臟瓣膜學大會成都分會」<br>分享使用「再度經導管主動脈瓣膜置換術」治療毀損導管瓣膜的成功經驗",
+    "footerImages": ["images/pic_41_1.jpg"],
+    "id": 41,
+    "content": "41.html"
+  },
+  {
+    "img": "images/pic_40.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title": "本院舉辦糖心腎共病研討會<br>整合血糖、血壓及腎功能照護為發展趨勢",
+    "link": "本院舉辦糖心腎共病研討會<br>整合血糖、血壓及腎功能照護為發展趨勢",
+    "footerImages": ["images/pic_40_1.jpg"],
+    "id": 40,
+    "content": "40.html"
+  },
+  {
+    "img": "images/pic_39.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／人事室",
+    "title": "本院榮獲1111人力銀行<br>2023幸福企業生技醫療類金獎",
+    "link": "本院榮獲1111人力銀行<br>2023幸福企業生技醫療類金獎",
+    "footerImages": [],
+    "id": 39,
+    "content": "39.html"
+  },
+  {
+    "img": "images/pic_38.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／遠距暨國際醫療中心曾淑秋醫務專員",
+    "title": "本院遠距暨國際醫療中心榮獲<br>2023台灣健康照護品質管理競賽海報競賽組金獎",
+    "link": "本院遠距暨國際醫療中心榮獲<br>2023台灣健康照護品質管理競賽海報競賽組金獎",
+    "footerImages": [],
+    "id": 38,
+    "content": "38.html"
+  },
+  {
     "img": "images/pic_37.jpg",
     "headimg": "",
     "h5": "文／編輯部、照片提供／總務室",

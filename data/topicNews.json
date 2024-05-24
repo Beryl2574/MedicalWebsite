@@ -1,4 +1,164 @@
-[ 
+[  
+  {
+    "img": "images/pic_103.jpg",
+    "headimg": "",
+    "h5": "文／張鴻猷（心臟血管內科主治醫師）",
+    "title": "左心耳封堵器是預防房顫中風的替代選擇",
+    "link": "左心耳封堵器是預防房顫中風的替代選擇",
+    "footerImages": ["images/pic_103_1.jpg"],
+    "id": 103,
+    "content": "103.html"
+    },      
+  {
+    "img": "images/pic_102.jpg",
+    "headimg": "",
+    "h5": "文／許粹剛（眼科部一般眼科主任）",
+    "title": "白內障年輕化，高度近視族群風險高",
+    "link": "白內障年輕化，高度近視族群風險高",
+    "footerImages": ["images/pic_102_1.jpg","images/pic_102_2.jpg","images/pic_102_3.jpg"],
+    "id": 102,
+    "content": "102.html"
+    },      
+  {
+    "img": "images/pic_101.jpg",
+    "headimg": "",
+    "h5": "文／張智惠（耳鼻喉部主治醫師）",
+    "title": "聲帶老化該怎麼辦？",
+    "link": "聲帶老化該怎麼辦？",
+    "footerImages": ["images/pic_101_1.jpg","images/pic_101_2.jpg"],
+    "id": 101,
+    "content": "101.html"
+    },      
+  {
+    "img": "images/pic_100.jpg",
+    "headimg": "",
+    "h5": "文／林華卿（外科部主任兼大腸直腸外科主治醫師）",
+    "title": "認識大腸癌的危險因子",
+    "link": "認識大腸癌的危險因子",
+    "footerImages": ["images/pic_100_1.jpg","images/pic_100_2.jpg"],
+    "id": 100,
+    "content": "100.html"
+    },      
+  {
+    "img": "images/pic_99.jpg",
+    "headimg": "",
+    "h5": "文／謝啟誠（泌尿部一般泌尿科主任）",
+    "title": "年長男性的難言之隱：排尿問題",
+    "link": "年長男性的難言之隱：排尿問題",
+    "footerImages": ["images/pic_99_1.jpg","images/pic_99_2.jpg"],
+    "id": 99,
+    "content": "99.html"
+    },      
+  {
+    "img": "images/pic_98.jpg",
+    "headimg": "",
+    "h5": "文／楊尚峯（臨床病理科主任兼腎臟科主治醫師）",
+    "title": "糖尿病患腎病變風險高<br>新型藥物排糖兼護腎，糖尿病照護進入新時代",
+    "link": "糖尿病患腎病變風險高<br>新型藥物排糖兼護腎，糖尿病照護進入新時代",
+    "footerImages": ["images/pic_98_1.jpg","images/pic_98_2.jpg"],
+    "id": 98,
+    "content": "98.html"
+    },      
+  {
+    "img": "images/pic_97.jpg",
+    "headimg": "",
+    "h5": "文／陳奕賓（營養治療科營養師）",
+    "title": "選對點心，輕鬆過年好放心",
+    "link": "選對點心，輕鬆過年好放心",
+    "footerImages": ["images/pic_97_1.jpg","images/pic_97_2.jpg"],
+    "id": 97,
+    "content": "97.html"
+    },        
+    {
+      "img": "images/pic_96.jpg",
+      "headimg": "",
+      "h5": "文／蘇東平（精神醫學部教授級醫師）",
+      "title": "低劑量K他命<bR>降低難治型憂鬱症患者自殺率且具快速療效<br>本院精神醫學部與研究團隊領先亞洲<br>成果發表於國際期刊",
+      "link": "低劑量K他命<bR>降低難治型憂鬱症患者自殺率且具快速療效<br>本院精神醫學部與研究團隊領先亞洲<br>成果發表於國際期刊",
+      "footerImages": ["images/pic_96_1.jpg"],
+      "id": 96,
+      "content": "96.html"
+      },      
+  {
+    "img": "images/pic_95.jpg",
+    "headimg": "",
+    "h5": "文／薛智仁(耳鼻喉部喉及頭頸外科主任)",
+    "title": "頭頸癌治療的新發展",
+    "link": "頭頸癌治療的新發展",
+    "footerImages": ["images/pic_95_1.jpg","images/pic_95_2.jpg","images/pic_95_3.jpg"],
+    "id": 95,
+    "content": "95.html"
+    },      
+    {
+      "img": "images/pic_94.jpg",
+      "headimg": "",
+      "h5": "文／陳冠群（資訊室主任兼心臟血管內科主治醫師）",
+      "title": "睡眠對心血管健康的影響",
+      "link": "睡眠對心血管健康的影響",
+      "footerImages": ["images/pic_94_1.jpg","images/pic_94_2.jpg"],
+      "id": 94,
+      "content": "94.html"
+      },      
+    {
+    "img": "images/pic_93.jpg",
+    "headimg": "",
+    "h5": "文／蔡世澤(新陳代謝科兼營養治療科主任)",
+    "title": "新一代降血糖藥物有效幫助糖尿病及心腎風險管理",
+    "link": "新一代降血糖藥物有效幫助糖尿病及心腎風險管理",
+    "footerImages": ["images/pic_93_1.jpg","images/pic_93_2.jpg"],
+    "id": 93,
+    "content": "93.html"
+    },      
+  {
+    "img": "images/pic_92.jpg",
+    "headimg": "",
+    "h5": "文／吉娜吉瓦思（安寧病房護理長）",
+    "title": "轉彎遇見愛，臨終過程之靈性照顧",
+    "link": "轉彎遇見愛，臨終過程之靈性照顧",
+    "footerImages": ["images/pic_92_1.jpg"],
+    "id": 92,
+    "content": "92.html"
+    },      
+  {
+    "img": "images/pic_91.jpg",
+    "headimg": "",
+    "h5": "文／黃永錚（復健醫學部主治醫師）",
+    "title": "年輕族群長時間使用手機，造成腰酸背痛甚至駝背",
+    "link": "年輕族群長時間使用手機，造成腰酸背痛甚至駝背",
+    "footerImages": ["images/pic_91_1.jpg","images/pic_91_2.jpg"],
+    "id": 91,
+    "content": "91.html"
+    },      
+  {
+  "img": "images/pic_90.jpg",
+  "headimg": "",
+  "h5": "文／鐘子超（神經外科主治醫師）",
+  "title": "腰酸背痛又腳麻，是因為脊椎退化嗎？",
+  "link": "腰酸背痛又腳麻，是因為脊椎退化嗎？",
+  "footerImages": ["images/pic_90_1.jpg","images/pic_90_2.jpg"],
+  "id": 90,
+  "content": "90.html"
+  },      
+  {
+    "img": "images/pic_89.jpg",
+    "headimg": "",
+    "h5": "文／黃任嫻（大腸直腸外科代理主任）",
+    "title": "揮別便秘的困擾，從調整飲食與生活習慣做起",
+    "link": "揮別便秘的困擾，從調整飲食與生活習慣做起",
+    "footerImages": ["images/pic_89_1.jpg","images/pic_89_2.jpg"],
+    "id": 89,
+    "content": "89.html"
+    },      
+  {
+    "img": "images/pic_88.jpg",
+    "headimg": "",
+    "h5": "文／陳韻婷（營養治療科營養師）",
+    "title": "高血壓病人該怎麼吃？",
+    "link": "高血壓病人該怎麼吃？",
+    "footerImages": ["images/pic_88_1.jpg","images/pic_88_2.jpg"],
+    "id": 88,
+    "content": "88.html"
+    },      
   {
     "img": "images/pic_87.jpg",
     "headimg": "",
@@ -22,9 +182,9 @@
   {
     "img": "images/pic_85.jpg",
     "headimg": "",
-    "h5": "文／毛衛中（精神醫學部主任兼睡眠中心主任）",
-    "title": "安眠藥並非仙丹，建立良好睡眠習慣方能改善生活品質",
-    "link": "安眠藥並非仙丹，建立良好睡眠習慣方能改善生活品質",
+    "h5": "文／毛衛中（精神醫學部兼睡眠中心主任）",
+    "title": "安眠藥並非仙丹<br>建立良好睡眠習慣方能改善生活品質",
+    "link": "安眠藥並非仙丹<br>建立良好睡眠習慣方能改善生活品質",
     "footerImages": ["images/pic_85_1.jpg","images/pic_85_2.jpg"],
     "id": 85,
     "content": "85.html"
