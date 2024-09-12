@@ -1,5 +1,125 @@
 [
   {
+    "img": "images/pic_68.jpg",
+    "headimg": "",
+    "h5": "文／林煥湫（心臟血管內科主治醫師）、劉郡庭（心臟血管內科主治醫師）",
+    "title":"本院心臟血管內科林煥湫醫師及劉郡庭醫師均榮獲<br>2024年亞太經導管介入治療年會<br>病例報告第一名，表現優異",
+    "link": "本院心臟血管內科林煥湫醫師及劉郡庭醫師均榮獲<br>2024年亞太經導管介入治療年會<br>病例報告第一名，表現優異",
+    "footerImages": ["images/pic_68_1.jpg"],
+    "id": 68,
+    "content": "68.html"
+  },
+  {
+    "img": "images/pic_66.jpg",
+    "headimg": "",
+    "h5": "文／心臟醫學中心",
+    "title":"本院舉辦2024台北瓣膜高峰論壇<br>超過15國權威專家齊聚交流",
+    "link": "本院舉辦2024台北瓣膜高峰論壇<br>超過15國權威專家齊聚交流",
+    "footerImages": ["images/pic_66_1.jpg"],
+    "id": 66,
+    "content": "66.html"
+  },
+  {
+    "img": "images/pic_65.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title":"本院舉辦經導管瓣膜手術治療照護研習會<br>凝聚醫療共識",
+    "link": "本院舉辦經導管瓣膜手術治療照護研習會<br>凝聚醫療共識",
+    "footerImages": [],
+    "id": 65,
+    "content": "65.html"
+  },
+  {
+    "img": "images/pic_64.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／醫療業務部",
+    "title":"本院前往新北市八里區及淡水區、新竹市香山區提供醫療服務<br>秉持「慈善心．服務情」創院宗旨，深入基層、照顧社區民眾",
+    "link": "本院前往新北市八里區及淡水區、新竹市香山區提供醫療服務<br>秉持「慈善心．服務情」創院宗旨，深入基層、照顧社區民眾",
+    "footerImages": ["images/pic_64_1.jpg","images/pic_64_2.jpg"],
+    "id": 64,
+    "content": "64.html"
+  },
+  {
+    "img": "images/pic_63.jpg",
+    "headimg": "",
+    "h5": "文／黃永錚（復健醫學部主治醫師）、董秀卿（社會服務課社工師）",
+    "title": "本院舉辦振興早期療育發展遲緩兒童親子遊",
+    "link": "本院舉辦振興早期療育發展遲緩兒童親子遊",
+    "footerImages": ["images/pic_63_1.jpg"],
+    "id": 63,
+    "content": "63.html"
+  },
+  {
+    "img": "images/pic_62.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title": "本院心臟醫學中心通過醫策會心衰竭照護品質認證",
+    "link": "本院心臟醫學中心通過醫策會心衰竭照護品質認證",
+    "footerImages": [],
+    "id": 62,
+    "content": "62.html"
+  },
+  {
+    "img": "images/pic_61.jpg",
+    "headimg": "",
+    "h5": "文／張忠毅（心臟醫學中心主任）",
+    "title": "振興醫院心臟手術成績居全台領先地位",
+    "link": "振興醫院心臟手術成績居全台領先地位",
+    "footerImages": ["images/pic_61_1.jpg"],
+    "id": 61,
+    "content": "61.html"
+  },
+  {
+    "img": "images/pic_60.jpg",
+    "headimg": "",
+    "h5": "文／殷偉賢（醫療暨教研副院長）",
+    "title": "本院瓣膜團隊首創改良式二尖瓣前葉切割技術<br>大幅改善經導管二尖瓣膜置換術結果，備受國際肯定",
+    "link": "本院瓣膜團隊首創改良式二尖瓣前葉切割技術<br>大幅改善經導管二尖瓣膜置換術結果，備受國際肯定",
+    "footerImages": [],
+    "id": 60,
+    "content": "60.html"
+  },
+  {
+    "img": "images/pic_59.jpg",
+    "headimg": "",
+    "h5": "文／護理部",
+    "title": "本院舉辦2024年護師節慶祝暨優良人員表揚大會<br>感念護理師堅持守護健康的基礎力量",
+    "link": "本院舉辦2024年護師節慶祝暨優良人員表揚大會<br>感念護理師堅持守護健康的基礎力量",
+    "footerImages": ["images/pic_59_1.jpg","images/pic_59_2.jpg","images/pic_59_3.jpg","images/pic_59_4.jpg","images/pic_59_5.jpg"],
+    "id": 59,
+    "content": "59.html"
+  },
+  {
+    "img": "images/pic_58.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／社會服務課、復健醫學部",
+    "title": "本院感謝草山扶輪社捐贈早期療育教具一批",
+    "link": "本院感謝草山扶輪社捐贈早期療育教具一批",
+    "footerImages": [],
+    "id": 58,
+    "content": "58.html"
+  },
+  {
+    "img": "images/pic_57.jpg",
+    "headimg": "",
+    "h5": "文／張忠毅（心臟醫學中心主任）",
+    "title": "振興醫院心臟移植成績持續領先",
+    "link": "振興醫院心臟移植成績持續領先",
+    "footerImages": ["images/pic_57_1.jpg","images/pic_57_2.jpg"],
+    "id": 57,
+    "content": "57.html"
+  },
+  {
+    "img": "images/pic_56.jpg",
+    "headimg": "",
+    "h5": "文／編輯部、資料提供／心臟醫學中心",
+    "title": "本院心臟醫學中心再度通過醫策會<br>冠狀動脈疾病照護品質認證",
+    "link": "本院心臟醫學中心再度通過醫策會<br>冠狀動脈疾病照護品質認證",
+    "footerImages": [],
+    "id": 56,
+    "content": "56.html"
+  },
+  {
     "img": "images/pic_55.jpg",
     "headimg": "",
     "h5": "文／張鴻猷（心臟血管內科主治醫師）",
@@ -240,16 +360,6 @@
     "content": "32.html"
   },
   {
-    "img": "images/pic_31.jpg",
-    "headimg": "",
-    "h5": "文／護理部",
-    "title": "白衣天使堅守在線，宛若雨後彩虹令人鼓舞<br>本院舉行2023年優良護理人員表揚大會",
-    "link": "白衣天使堅守在線，宛若雨後彩虹令人鼓舞<br>本院舉行2023年優良護理人員表揚大會",
-    "footerImages": ["images/pic_31_1.jpg","images/pic_31_2.jpg","images/pic_31_5.jpg"],
-    "id": 31,
-    "content": "31.html"
-  },
-  {
     "img": "images/pic_30.jpg",
     "headimg": "",
     "h5": "文／殷偉賢（醫療副院長）、曹殿萍（心臟血管內科主任）",
@@ -278,16 +388,6 @@
     "footerImages": ["images/pic_28_1.jpg","images/pic_28_2.jpg","images/pic_28_3.jpg"],
     "id": 28,
     "content": "28.html"
-  },
-  {
-    "img": "images/pic_27.jpg",
-    "headimg": "",
-    "h5": "文／編輯部",
-    "title": "緬懷創辦人——紀念蔣宋美齡女士126歲華誕",
-    "link": "緬懷創辦人——紀念蔣宋美齡女士126歲華誕",
-    "footerImages": ["images/pic_27_1.jpg","images/pic_27_2.jpg","images/pic_27_3.jpg"],
-    "id": 27,
-    "content": "27.html"
   },
   {
     "img": "images/pic_26.jpg",

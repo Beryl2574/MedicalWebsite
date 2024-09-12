@@ -1,5 +1,185 @@
 [  
   {
+    "img": "images/pic_122.jpg",
+    "headimg": "",
+    "h5": "文／陳怡君（家庭醫學科主任）",
+    "title": "吸菸影響生育也易罹癌，請女性朋友勇敢戒菸",
+    "link": "吸菸影響生育也易罹癌，請女性朋友勇敢戒菸",
+    "footerImages": ["images/pic_122_1.jpg"],
+    "id": 122,
+    "content": "122.html"
+    },  
+  {
+    "img": "images/pic_121.jpg",
+    "headimg": "",
+    "h5": "文／陳威廷（胸腔內科主任）",
+    "title": "正確認識肺癌",
+    "link": "正確認識肺癌",
+    "footerImages": ["images/pic_121_1.jpg","images/pic_121_2.jpg"],
+    "id": 121,
+    "content": "121.html"
+    },  
+  {
+    "img": "images/pic_120.jpg",
+    "headimg": "",
+    "h5": "文／賴昱樺（中風中心主任兼神經內科主治醫師）",
+    "title": "心房顫動患者為腦中風高危險群<br>正確評估及配合用藥方能有效預防",
+    "link": "心房顫動患者為腦中風高危險群<br>正確評估及配合用藥方能有效預防",
+    "footerImages": ["images/pic_120_1.jpg","images/pic_120_2.jpg"],
+    "id": 120,
+    "content": "120.html"
+    },  
+  {
+    "img": "images/pic_119.jpg",
+    "headimg": "",
+    "h5": "文／常傳訓（外科部乳癌治療中心主任）",
+    "title": "面對乳癌不徬徨",
+    "link": "面對乳癌不徬徨",
+    "footerImages": ["images/pic_119_1.jpg"],
+    "id": 119,
+    "content": "119.html"
+    },  
+  {
+    "img": "images/pic_118.jpg",
+    "headimg": "",
+    "h5": "文／劉怡凡（心臟血管內科主治醫師）",
+    "title": "養成健康護心好習慣，遠離心血管疾病的威脅",
+    "link": "養成健康護心好習慣，遠離心血管疾病的威脅",
+    "footerImages": ["images/pic_118_1.jpg","images/pic_118_2.jpg"],
+    "id": 118,
+    "content": "118.html"
+    },  
+  {
+    "img": "images/pic_117.jpg",
+    "headimg": "",
+    "h5": "文／李永在（結構心臟病介入治療科主任）",
+    "title": "經導管主動脈瓣膜置換術免開胸、恢復快<br>為心臟病患的新選擇",
+    "link": "經導管主動脈瓣膜置換術免開胸、恢復快<br>為心臟病患的新選擇",
+    "footerImages": ["images/pic_117_1.jpg"],
+    "id": 117,
+    "content": "117.html"
+    },      
+  {
+    "img": "images/pic_116.jpg",
+    "headimg": "",
+    "h5": "文／李鴻福（急重症醫療中心主任兼神經外科主治醫師）",
+    "title": "骨質疏鬆易引發壓迫性骨折，停經後婦女須特別注意",
+    "link": "骨質疏鬆易引發壓迫性骨折，停經後婦女須特別注意",
+    "footerImages": ["images/pic_116_1.jpg","images/pic_116_2.jpg","images/pic_116_3.jpg"],
+    "id": 116,
+    "content": "116.html"
+    },      
+  {
+    "img": "images/pic_115.jpg",
+    "headimg": "",
+    "h5": "文／陳韻婷(營養治療科營養師)",
+    "title": "注意食物熱量及食用技巧<br>心血管病人也能輕鬆享中秋",
+    "link": "注意食物熱量及食用技巧<br>心血管病人也能輕鬆享中秋",
+    "footerImages": ["images/pic_115_1.jpg"],
+    "id": 115,
+    "content": "115.html"
+    },      
+  {
+    "img": "images/pic_114.jpg",
+    "headimg": "",
+    "h5": "文／謝啟誠（泌尿部一般泌尿科主任）",
+    "title": "夏季常見的尿路結石疾病",
+    "link": "夏季常見的尿路結石疾病",
+    "footerImages": ["images/pic_114_1.jpg","images/pic_114_2.jpg"],
+    "id": 114,
+    "content": "114.html"
+    },      
+  {
+    "img": "images/pic_113.jpg",
+    "headimg": "",
+    "h5": "文／陶啓偉（內科部主任）",
+    "title": "注意「咳、痰、喘」，恐為慢性阻塞性肺病",
+    "link": "注意「咳、痰、喘」，恐為慢性阻塞性肺病",
+    "footerImages": ["images/pic_113_1.jpg","images/pic_113_2.jpg"],
+    "id": 113,
+    "content": "113.html"
+    },      
+  {
+    "img": "images/pic_112.jpg",
+    "headimg": "",
+    "h5": "文／黃懷緒（心臟醫學中心血管外科主任）",
+    "title": "關心您的下肢血管健康",
+    "link": "關心您的下肢血管健康",
+    "footerImages": ["images/pic_112_1.jpg","images/pic_112_2.jpg"],
+    "id": 112,
+    "content": "112.html"
+    },      
+  {
+    "img": "images/pic_111.jpg",
+    "headimg": "",
+    "h5": "文／陳柏菘（心臟加護中心科主治醫師）",
+    "title": "心臟病患輔助治療新選項，<br>心臟體外反搏治療系統（EECP）",
+    "link": "心臟病患輔助治療新選項，<br>心臟體外反搏治療系統（EECP）",
+    "footerImages": ["images/pic_111_1.jpg"],
+    "id": 111,
+    "content": "111.html"
+    },      
+  {
+    "img": "images/pic_110.jpg",
+    "headimg": "",
+    "h5": "文／宋文鑫（神經外科主任）",
+    "title": "手術治療脊椎疾病的正確觀念",
+    "link": "手術治療脊椎疾病的正確觀念",
+    "footerImages": ["images/pic_110_1.jpg","images/pic_110_2.jpg"],
+    "id": 110,
+    "content": "110.html"
+    },      
+  {
+    "img": "images/pic_109.jpg",
+    "headimg": "",
+    "h5": "文／鄧鐘泉（神經內科主任）",
+    "title": "頭暈、心悸等不適症狀<br>原來是自主神經功能失調造成的",
+    "link": "頭暈、心悸等不適症狀<br>原來是自主神經功能失調造成的",
+    "footerImages": ["images/pic_109_1.jpg","images/pic_109_2.jpg"],
+    "id": 109,
+    "content": "109.html"
+    },      
+  {
+    "img": "images/pic_108.jpg",
+    "headimg": "",
+    "h5": "文／蔡世澤（新陳代謝科暨營養治療科主任）",
+    "title": "家人陪伴控糖效果好<br>年輕糖友請積極治療以降低併發症風險",
+    "link": "家人陪伴控糖效果好<br>年輕糖友請積極治療以降低併發症風險",
+    "footerImages": ["images/pic_108_1.jpg","images/pic_108_2.jpg"],
+    "id": 108,
+    "content": "108.html"
+    },      
+  {
+    "img": "images/pic_107.jpg",
+    "headimg": "",
+    "h5": "文／李偉浩（婦產部主治醫師）",
+    "title": "如何防治子宮頸癌？",
+    "link": "如何防治子宮頸癌？",
+    "footerImages": ["images/pic_107_1.jpg","images/pic_107_2.jpg"],
+    "id": 107,
+    "content": "107.html"
+    },        
+  {
+    "img": "images/pic_106.jpg",
+    "headimg": "",
+    "h5": "文／黃任嫻（大腸直腸外科代理主任）",
+    "title": "惱人的腸躁症",
+    "link": "惱人的腸躁症",
+    "footerImages": ["images/pic_106_1.jpg","images/pic_106_2.jpg"],
+    "id": 106,
+    "content": "106.html"
+    },        
+  {
+    "img": "images/pic_105.jpg",
+    "headimg": "",
+    "h5": "文／劉復康（復健醫學部主任）",
+    "title": "肩膀硬、脖子痠、手臂麻，全是肌筋膜疼痛引起",
+    "link": "肩膀硬、脖子痠、手臂麻，全是肌筋膜疼痛引起",
+    "footerImages": ["images/pic_105_1.jpg","images/pic_105_2.jpg"],
+    "id": 105,
+    "content": "105.html"
+    },           
+  {
     "img": "images/pic_103.jpg",
     "headimg": "",
     "h5": "文／張鴻猷（心臟血管內科主治醫師）",
