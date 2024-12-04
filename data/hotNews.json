@@ -1,5 +1,65 @@
 [
   {
+    "img": "images/pic_74.jpg",
+    "headimg": "",
+    "h5": "文／呂建和（遠距暨國際醫療中心高級專員）",
+    "title":"本院完成亞洲首例飛行加護病房的挑戰<br>締造生命「心」奇蹟",
+    "link": "本院完成亞洲首例飛行加護病房的挑戰<br>締造生命「心」奇蹟",
+    "footerImages": ["images/pic_74_1.jpg","images/pic_74_2.jpg"],
+    "id": 74,
+    "content": "74.html"
+  },
+  {
+    "img": "images/pic_73.jpg",
+    "headimg": "",
+    "h5": "文／編輯部 照片提供／總務室",
+    "title":"本院舉辦113年中秋節員工暨眷屬烤肉聯歡晚會<br>同仁熱情參與，氣氛歡樂",
+    "link": "本院舉辦113年中秋節員工暨眷屬烤肉聯歡晚會<br>同仁熱情參與，氣氛歡樂",
+    "footerImages": ["images/pic_73_1.jpg","images/pic_73_2.jpg"],
+    "id": 73,
+    "content": "73.html"
+  },
+  {
+    "img": "images/pic_72.jpg",
+    "headimg": "",
+    "h5": "文／ 編輯部",
+    "title":"本院於8月31日盛大舉辦57週年院慶活動",
+    "link": "本院於8月31日盛大舉辦57週年院慶活動",
+    "footerImages": ["images/pic_72_1.jpg","images/pic_72_2.jpg","images/pic_72_3.jpg","images/pic_72_4.jpg","images/pic_72_5.jpg"],
+    "id": 72,
+    "content": "72.html"
+  },
+  {
+    "img": "images/pic_71.jpg",
+    "headimg": "",
+    "h5": "文／李永在（心臟醫學中心結構心臟病介入治療科主任）",
+    "title":"本院舉辦二尖瓣瓣中瓣置換術學習營<br>吸引國外專家來院學習",
+    "link": "本院舉辦二尖瓣瓣中瓣置換術學習營<br>吸引國外專家來院學習",
+    "footerImages": ["images/pic_71_1.jpg"],
+    "id": 71,
+    "content": "71.html"
+  },
+  {
+    "img": "images/pic_70.jpg",
+    "headimg": "",
+    "h5": "文／洪佳豪（心臟血管內科第二年次專受訓醫師）、高瑜成（心臟血管內科主治醫師）、曹殿萍（心臟血管內科主任）",
+    "title":"本院舉辦鈣化冠狀動脈疾病介入治療研討會",
+    "link": "本院舉辦鈣化冠狀動脈疾病介入治療研討會",
+    "footerImages": [],
+    "id": 70,
+    "content": "70.html"
+  },
+  {
+    "img": "images/pic_69.jpg",
+    "headimg": "",
+    "h5": "文／李永在（心臟醫學中心結構心臟病介入治療科主任）",
+    "title":"本院榮獲「經導管主動脈瓣膜置換術卓越中心」認證<Br>並於全球經導管主動脈瓣膜植入手術專家會議中示範，獲廣大迴響",
+    "link": "本院榮獲「經導管主動脈瓣膜置換術卓越中心」認證<Br>並於全球經導管主動脈瓣膜植入手術專家會議中示範，獲廣大迴響",
+    "footerImages": [],
+    "id": 69,
+    "content": "69.html"
+  },
+  {
     "img": "images/pic_68.jpg",
     "headimg": "",
     "h5": "文／林煥湫（心臟血管內科主治醫師）、劉郡庭（心臟血管內科主治醫師）",

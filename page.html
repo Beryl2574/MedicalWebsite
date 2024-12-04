@@ -27,31 +27,96 @@
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
     <style>
-        caption {
-            color: rgb(8, 127, 255);
-            caption-side: bottom;
-            text-align: left;
-            padding: 5px;
-        }
-        table{
-            width: 80%;
-            justify-content: center;
-            border:1px solid rgb(5, 37, 75);
-            text-align: center;
-            margin: auto;
-            }
-        th {
-            border:1px solid rgb(87, 101, 108); background-color: rgb(22, 64, 89); color:aliceblue;
-        }
-        td {
-            border:1px solid rgb(5, 37, 75); background-color:rgb(231, 241, 252);
-        }
-        h5 {
-            text-align: center;
-            margin: 20px;
-            color: rgb(86, 111, 169);
-            border-style: ridge;
-        }
+    caption {
+        color: rgb(8, 127, 255);
+        caption-side: bottom;
+        text-align: left;
+        padding: 5px;
+    }
+    table {
+        width: 100%;
+        margin: 20px auto;
+        border: 1px solid #172053;
+        border-collapse: collapse;
+        font-size: 16px;
+    }
+
+    table th, table td {
+        border: 1px solid #172053;
+        padding: 10px;
+        text-align: center;
+        background-color: #e8ecf8;
+    }
+
+    table th {
+        background-color: #172053;
+        color: #fff;
+        font-weight: bold;
+    }
+    .table-style-1 {
+        width: 80%;
+        border-collapse: collapse;
+        background-color: #f8e3bd;
+        margin-bottom: 20px;
+    }
+
+    .table-style-1 th, .table-style-1 td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center; /* text-align: middle 改為 center，因為 middle 不適用於 text */
+    }
+
+/* 設定 th 的背景顏色 */
+    .table-style-1 th {
+        background-color: #f87903;
+        color: #ffffff; /* 加上字體顏色讓文字更清晰 */
+        font-weight: bold;
+    }
+
+/* 設定 td 的背景顏色 */
+    .table-style-1 td {
+        background-color: #ffeecf; /* td 的背景顏色 */
+        color: #000000; /* 字體顏色 */
+    }
+
+    h5 {
+        text-align: center;
+        margin: 20px;
+        color: rgb(86, 111, 169);
+        border-style: ridge;
+    }
+    .table-style-2 {
+        width: 80%;
+        border: 2px solid #4A90E2; /* 淺藍色邊框 */
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+    .table-style-2 th, .table-style-2 td {
+        border: 1px solid #4A90E2; /* 淺藍色邊框 */
+        padding: 15px;
+        text-align: center;
+    }
+
+/* 設定 th 的背景顏色 */
+    .table-style-2 th {
+        background-color: #2F5F8F; /* 深藍灰色背景 */
+        color: #EAF3FA; /* 淺灰白文字，對比度高 */
+        font-weight: bold;
+    }
+
+/* 設定 td 的背景顏色 */
+    .table-style-2 td {
+        background-color: #DFE8F1; /* 淺灰藍色背景 */
+        color: #2F2F2F; /* 深灰色文字 */
+    }
+
+/* 設定標題 h5 的樣式 */
+    h5 {
+        color: #000000; /* 設定字體顏色為黑色 */
+        font-size: 18px; /* 設定字體大小為 18px */
+    }
+
         #content {
             margin: 10px;
             text-align: justify;
@@ -64,6 +129,14 @@
             margin: auto;
             display: block;
         }
+        .strong-red {
+            color: rgb(176, 56, 5);
+        }
+
+        .strong-orange {
+            color: rgb(242, 110, 34);
+        }
+
     </style>        
     <title>新聞報導</title>
 </head>

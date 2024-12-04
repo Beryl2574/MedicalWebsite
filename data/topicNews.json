@@ -1,5 +1,85 @@
 [  
   {
+    "img": "images/pic_130.jpg",
+    "headimg": "",
+    "h5": "文／鄧鐘泉（神經內科主任）",
+    "title": "別忽略失智症的警訊，及早就醫評估才能延緩退化",
+    "link": "別忽略失智症的警訊，及早就醫評估才能延緩退化",
+    "footerImages": ["images/pic_130_1.jpg","images/pic_130_2.jpg"],
+    "id": 130,
+    "content": "130.html"
+    },  
+  {
+    "img": "images/pic_129.jpg",
+    "headimg": "",
+    "h5": "文／袁瑋（銀光學苑主任兼老年精神科主治醫師）",
+    "title": "及早診斷配合藥物及多元生活化介入<br>多管齊下才能有效延緩失智症",
+    "link": "及早診斷配合藥物及多元生活化介入<br>多管齊下才能有效延緩失智症",
+    "footerImages": ["images/pic_129_1.jpg","images/pic_129_2.jpg"],
+    "id": 129,
+    "content": "129.html"
+    },  
+  {
+    "img": "images/pic_128.jpg",
+    "headimg": "",
+    "h5": "文／陳奕賓（營養治療科營養師）",
+    "title": "延緩失智退化該怎麼吃？",
+    "link": "延緩失智退化該怎麼吃？",
+    "footerImages": ["images/pic_128_1.jpg","images/pic_128_2.jpg"],
+    "id": 128,
+    "content": "128.html"
+    },  
+  {
+    "img": "images/pic_127.jpg",
+    "headimg": "",
+    "h5": "文／蕭安穗（耳鼻喉部主任）",
+    "title": "中耳炎合併膽脂瘤恐造成聽力受損<br>建議盡早進行手術治療",
+    "link": "中耳炎合併膽脂瘤恐造成聽力受損<br>建議盡早進行手術治療",
+    "footerImages": ["images/pic_127_1.jpg"],
+    "id": 127,
+    "content": "127.html"
+    },  
+    {
+    "img": "images/pic_126.jpg",
+    "headimg": "",
+    "h5": "文／張嘉侃（兒童醫學部主任）",
+    "title": "兒童心臟檢查的重要性",
+    "link": "兒童心臟檢查的重要性",
+    "footerImages": ["images/pic_126_1.jpg","images/pic_126_2.jpg"],
+    "id": 126,
+    "content": "126.html"
+    },  
+    {
+      "img": "images/pic_125.jpg",
+      "headimg": "",
+      "h5": "文／蔡昇翰（泌尿部微創手術科主任）",
+      "title": "動不動就想上廁所，小心是膀胱過動症",
+      "link": "動不動就想上廁所，小心是膀胱過動症",
+      "footerImages": ["images/pic_125_1.jpg","images/pic_125_2.jpg"],
+      "id": 125,
+      "content": "125.html"
+    },  
+   {
+    "img": "images/pic_124.jpg",
+    "headimg": "",
+    "h5": "文／李信興（過敏免疫風濕科主任）",
+    "title": "痛風患者切莫聽信謠言偏方<br>請配合醫囑服藥才能控制病情",
+    "link": "痛風患者切莫聽信謠言偏方<br>請配合醫囑服藥才能控制病情",
+    "footerImages": ["images/pic_124_1.jpg","images/pic_124_2.jpg"],
+    "id": 124,
+    "content": "124.html"
+    },  
+  {
+    "img": "images/pic_123.jpg",
+    "headimg": "",
+    "h5": "文／高瑜成（心臟血管內科主治醫師）",
+    "title": "小心胸悶胸痛，恐心肌梗塞找上門",
+    "link": "小心胸悶胸痛，恐心肌梗塞找上門",
+    "footerImages": ["images/pic_123_1.jpg","images/pic_123_2.jpg"],
+    "id": 123,
+    "content": "123.html"
+    },  
+  {
     "img": "images/pic_122.jpg",
     "headimg": "",
     "h5": "文／陳怡君（家庭醫學科主任）",
@@ -32,7 +112,7 @@
   {
     "img": "images/pic_119.jpg",
     "headimg": "",
-    "h5": "文／常傳訓（外科部乳癌治療中心主任）",
+    "h5": "文／常傳訓（乳房治療中心主任兼外科部乳房外科主任）",
     "title": "面對乳癌不徬徨",
     "link": "面對乳癌不徬徨",
     "footerImages": ["images/pic_119_1.jpg"],
@@ -1098,26 +1178,6 @@
     "footerImages": ["images/pic_12_1.jpg","images/pic_12_2.jpg","images/pic_12_3.jpg"],
     "id": 12,
     "content": "12.html"
-  },
-  {
-    "img": "images/pic_11.jpg",
-    "headimg": "images/pic_11_1.jpg",
-    "h5": "2022/08 文/鄧鐘泉（神經內科主任）",
-    "title": "別忽略失智症的警訊  及早就醫評估才能延緩退化",
-    "link": "別忽略失智症的警訊  及早就醫評估才能延緩退化",
-    "footerImages": [],
-    "id": 11,
-    "content": "11.html"
-  },
-  {
-    "img": "images/pic_10.jpg",
-    "headimg": "",
-    "h5": "2022/08 文/陳奕賓（營養治療科營養師）",
-    "title": "不想忘記你，預防失智怎麼吃",
-    "link": "不想忘記你，預防失智怎麼吃",
-    "footerImages": [],
-    "id": 10,
-    "content": "10.html"
   },
   {
     "img": "images/pic_02.jpg",
